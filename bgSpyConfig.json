@@ -1,0 +1,7 @@
+{
+    "token":  "YOUR DISCORD BOT'S TOKEN",
+    "targetId": "TARGET ID",
+    "yourDiscordId": "YOUR DISCORD ACCOUNT ID",
+    "allowChromium": false, //set this to true if you want to open chromium when the target changes his/her status 
+    "allowDirectMessages": true //set this to true if you want an alert in your dm messages
+}
